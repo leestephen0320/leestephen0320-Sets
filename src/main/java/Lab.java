@@ -20,7 +20,7 @@ public class Lab {
      * @return a new Set<Integer> object.
      */
     public Set<Integer> createSet(){
-        return Set<Integer> object = new Set<Integer>();
+        Set<Integer> a = new HashSet<Integer>();
     }
 
     /**
