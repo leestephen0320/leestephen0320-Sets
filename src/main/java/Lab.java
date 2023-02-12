@@ -1,5 +1,5 @@
 
-import java.util.Set;
+import java.util.*;
 
 /**
  * Sets are unordered collections of elements. Sets do not allow duplicates.
@@ -20,7 +20,7 @@ public class Lab {
      * @return a new Set<Integer> object.
      */
     public Set<Integer> createSet(){
-        Set<Integer> a = new HashSet<Integer>();
+        Set<Integer> a = new Set<Integer>();
     }
 
     /**
