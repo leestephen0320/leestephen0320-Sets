@@ -19,8 +19,8 @@ public class Lab {
      * Some common implementations of Set are HashSet and TreeSet. Look into how to instantiate them.
      * @return a new Set<Integer> object.
      */
-    public HashSet<Integer> createSet(){
-        Set<Integer> a = new HashSet<Integer>();
+    public Set<Integer> createSet(){
+        return new HashSet<Integer>();
     }
 
     /**
